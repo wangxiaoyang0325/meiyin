@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "page/component/home/index",
+    "page/component/tracks/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#e42803",
+    "navigationBarTitleText": "魅音Live",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#f7f7f7"
+  }
+}
